@@ -1,5 +1,5 @@
 const API_URL = import.meta?.env?.PROD
-  ? "https://nalancay.questions-js.netlify.app/"
+  ? "https://nalancay-questions-js.netlify.app/"
   : "http://localhost:3000/";
 
 export const getAllQuestions = async () => {
