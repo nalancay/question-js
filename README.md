@@ -1,6 +1,6 @@
 # URL web site
 
-[https://nalancay-questions-js.netlify.app/](https://nalancay-questions-js.netlify.app/).
+[https://nalancay-questions-js.netlify.app](https://nalancay-questions-js.netlify.app).
 
 ## Javascript quiz game
 
